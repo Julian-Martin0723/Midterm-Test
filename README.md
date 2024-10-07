@@ -1,2 +1,2 @@
-# this is about tableau project
+# About tableau project
 My project is about ...
