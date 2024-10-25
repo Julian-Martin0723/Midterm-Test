@@ -11,6 +11,6 @@ https://public.tableau.com/app/profile/.jmart315/viz/RussellWilsonvsJustinFields
 #
 Link to Quarterback Statistics:
 #
-https://www.pro-football-reference.com/players/F/FielJu00/gamelog/2024/advanced/ 
+https://www.pro-football-reference.com/players/F/FielJu00/gamelog/advanced/ 
 #
 https://www.pro-football-reference.com/players/W/WilsRu00/gamelog/advanced/
