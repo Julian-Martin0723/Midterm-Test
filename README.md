@@ -19,4 +19,4 @@ https://www.pro-football-reference.com/players/W/WilsRu00/gamelog/advanced/
 Future Improvements:
 - Combine the comparison tables into one table for each player.
 - Make the story one page and filter by year/career.
-- Wilson has only played one game this season so far as of 10/25/2024, so waiting for more available data.
+- Wilson has only played one game this season so far as of 10/25/2024, so waiting for more available data to make better comparisons.
